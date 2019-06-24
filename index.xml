@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monde Sinxi</title>
+    <link>https://mondesinxi.github.io/</link>
+    <description>Recent content on Monde Sinxi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>monde.sinxi@gmail.com (Monde Sinxi)</managingEditor>
+    <webMaster>monde.sinxi@gmail.com (Monde Sinxi)</webMaster>
+    <lastBuildDate>Mon, 24 Jun 2019 11:47:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://mondesinxi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started With Fastai</title>
+      <link>https://mondesinxi.github.io/post/getting-started-with-fastai/</link>
+      <pubDate>Mon, 24 Jun 2019 11:47:46 +0200</pubDate>
+      <author>monde.sinxi@gmail.com (Monde Sinxi)</author>
+      <guid>https://mondesinxi.github.io/post/getting-started-with-fastai/</guid>
+      <description>I will be documenting content that I&amp;rsquo;ve extracted from Jermemy Howards&amp;rsquo;s lectures. This was suggested to be a very good introduction to machine learning that&amp;rsquo;s very different from the approach that other courses take. In these courses, Jeremy uses a top down approach, which I really like. This will help us tackle Kaggle challenges that will surely make us better data scientists, right? So lets get started!</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://mondesinxi.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>monde.sinxi@gmail.com (Monde Sinxi)</author>
+      <guid>https://mondesinxi.github.io/page/about/</guid>
+      <description> My name is Monde Sinxi. I am an aspiring data scientist with a background in computational chemsirty. I love Python.
+Curriculum Vitae Education  Ph.d., Chemistry, University of Cape Town, Expected Date of Graduation 2019
+ M.Sc., Chemistry, University of Cape Town, 2015
+ B.Sc. (Honours), University of Cape Town, 2012
+ B.Sc., Rhodes University, 2011
+  Work Experience </description>
+    </item>
+    
+  </channel>
+</rss>
