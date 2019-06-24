@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Monde Sinxi</title>
+    <link>https://mondesinxi.github.io/page/</link>
+    <description>Recent content in Pages on Monde Sinxi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>monde.sinxi@gmail.com (Monde Sinxi)</managingEditor>
+    <webMaster>monde.sinxi@gmail.com (Monde Sinxi)</webMaster>
+    
+	<atom:link href="https://mondesinxi.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://mondesinxi.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>monde.sinxi@gmail.com (Monde Sinxi)</author>
+      <guid>https://mondesinxi.github.io/page/about/</guid>
+      <description> My name is Monde Sinxi. I am an aspiring data scientist with a background in computational chemsirty. I love Python.
+Curriculum Vitae Education  Ph.d., Chemistry, University of Cape Town, Expected Date of Graduation 2019
+ M.Sc., Chemistry, University of Cape Town, 2015
+ B.Sc. (Honours), University of Cape Town, 2012
+ B.Sc., Rhodes University, 2011
+  Work Experience </description>
+    </item>
+    
+  </channel>
+</rss>
