@@ -1,12 +1,12 @@
 baseURL = "https://mondesinxi.github.io/"
 languageCode = "en-us"
 title = "Monde Sinxi"
-theme = "beautifulhugo"
+theme = "beautifulhugo2"
 
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 
-metaDataFormat = "yaml"
+#metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
