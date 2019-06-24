@@ -1,4 +1,44 @@
-baseURL = "http://example.org/"
+baseURL = "https://mondesinxi.github.io/"
 languageCode = "en-us"
 title = "Monde Sinxi"
-theme = "ananke"
+theme = "beautifulhugo"
+
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+
+[Params]
+
+  homeTitle = "Whose Data is it Anyway?" # Set a different text for the header on the home page
+  subtitle = "We Love All Things Python. We Love All Things Data."
+  logo = "img/5-man-beard-emoji-by-twitter.png"
+#  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = true
+  wordCount = false
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+
+
+[Author]
+
+  name = "Monde Sinxi"
+  email = "monde.sinxi@gmail.com"
+  github = "MondeSinxi"
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
